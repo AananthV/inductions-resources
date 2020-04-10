@@ -3,8 +3,6 @@
 With the next task we'll be venturing into the Backend of web services. We’ve put together yet another list of resources for you to start learning some basics before going on to your backend tasks. Additionally, you can contact your mentor for any kind of assistance.
 ***
 
-## BACK-END
-
 - Back-End code runs not in your browser, but on a remote server, which is a computer that could be anywhere. The job of the backend is to offer sevices that require data to be stored, processed, and delivered - like a registration form or a login. To understand how a backend works, you must learn about HTTP, which is a system of requests and responses. HTTP is how the frontend and the backend (your client computer and the server computer) communicate.
 
 - The system that routes all these requests into the backend on the server computer, is called a web server. A webserver acts like a gate on the server, controlling all the requests which are going through. Apache and NginX are examples for a webserver.
